@@ -1,0 +1,16 @@
+body{
+        display: flex;
+        align-items: center;
+        background-image: url(./img1.jpg);
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+        background-color:violet;
+        justify-content: center;
+        height: 100%;
+        
+        text-align: center;
+        font-family: monospace;
+        line-height: 1;
+        font-size: 55px;
+ 
+}
